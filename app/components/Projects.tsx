@@ -9,10 +9,10 @@ export default function Projects() {
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4 text-primary" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-center">
-            What I've Built
+            What I&apos;ve Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-center">
-            For over six years, I've specialized in crafting websites for college and university athletic departments. Most of my projects are web pages tailored to meet their specific requirements.
+            For over six years, I&apos;ve specialized in crafting websites for college and university athletic departments. Most of my projects are web pages tailored to meet their specific requirements.
           </p>
         </div>
         <div className="flex flex-wrap h-full lg:w-50">
