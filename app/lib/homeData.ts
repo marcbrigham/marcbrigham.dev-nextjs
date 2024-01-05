@@ -47,4 +47,4 @@ export const projects = [
     },
   ];
 
-  export const skills = ["Vue", "React", "NextJS", "Angular", "Javascript", "LESS", "SASS", "Tailwind", "ShadCN", "Bootstrap", "Git", "Consume APIs", "AWS", "Vercel", "Netlify", "HighCharts", "Storybook", "Figma", "Agile", "Google Analytics", "WCAG"];
+  export const skills = ["Vue", "React", "NextJS", "Angular", "Javascript", "TypeScript", "LESS", "SASS", "Tailwind", "ShadCN", "Bootstrap", "Git", "Consume APIs", "AWS", "Vercel", "Netlify", "HighCharts", "Storybook", "Figma", "Agile", "Google Analytics", "WCAG"];
