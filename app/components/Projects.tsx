@@ -6,7 +6,7 @@ export default function Projects() {
   return (
     <section id="projects" className="body-font">
       <div className="container pt-20 ml-auto mr-auto px-10 pb-20">
-        <div className="flex flex-col w-full mb-20">
+        <div className="flex flex-col w-full mb-6">
           <CodeIcon className="mx-auto inline-block w-10 mb-4 text-primary" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-center">
             What I&apos;ve Built
