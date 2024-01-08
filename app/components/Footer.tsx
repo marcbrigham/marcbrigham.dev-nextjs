@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Footer() {
     return (
-        <footer className="border-t py-4">
+        <footer className="border-t py-4 sticky bottom-0 bg-slate-950">
             <div className="container mx-auto flex justify-center space-x-6">
                 <Link href="https://github.com/marcbrigham">
                     <Image 
