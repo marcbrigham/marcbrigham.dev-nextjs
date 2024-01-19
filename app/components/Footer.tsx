@@ -1,8 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import styles from "./footer.css";
-
 export default function Footer() {
   return (
     <footer className="border-t py-4 sticky bottom-0 bg-white dark:bg-slate-950">
